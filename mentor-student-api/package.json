@@ -1,6 +1,9 @@
 {
   "name": "mentor-student-api",
   "version": "1.0.0",
+  "engines": {
+    "node": "v21.7.3"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
